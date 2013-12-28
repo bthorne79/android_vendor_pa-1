@@ -17,3 +17,4 @@ add_lunch_combo pa_m7ul-userdebug
 add_lunch_combo pa_n7000-userdebug
 add_lunch_combo pa_n7100-userdebug
 add_lunch_combo pa_vs980-userdebug
+add_lunch_combo pa_d2spr-userdebug
