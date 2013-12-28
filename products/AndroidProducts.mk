@@ -83,3 +83,4 @@ ifeq (pa_vs980,$(TARGET_PRODUCT))
 endif
 ifeq (pa_d2spr,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_d2spr.mk
+endif
